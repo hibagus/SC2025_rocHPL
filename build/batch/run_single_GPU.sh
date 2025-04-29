@@ -1,0 +1,1 @@
+../mpirun_rochpl -P 1 -Q 1 -N  $1 --NB 640 2>&1 | tee ./outputs_run/run_hpl_single_GPU_$1.out

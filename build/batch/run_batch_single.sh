@@ -1,0 +1,5 @@
+./run_workload_monitor_single.sh "./amd_mi300x_power_clock_temp_single.sh 0 1 run_HPL_Single_158080" "./amd_mi300x_hbm3_single.sh 0 1 run_HPL_Single_158080" "./run_single_GPU.sh 158080"
+./run_workload_monitor_single.sh "./amd_mi300x_power_clock_temp_single.sh 0 1 run_HPL_Single_79040"  "./amd_mi300x_hbm3_single.sh 0 1 run_HPL_Single_79040"  "./run_single_GPU.sh 79040"
+./run_workload_monitor_single.sh "./amd_mi300x_power_clock_temp_single.sh 0 1 run_HPL_Single_39520"  "./amd_mi300x_hbm3_single.sh 0 1 run_HPL_Single_39520"  "./run_single_GPU.sh 39520"
+./run_workload_monitor_single.sh "./amd_mi300x_power_clock_temp_single.sh 0 1 run_HPL_Single_19760"  "./amd_mi300x_hbm3_single.sh 0 1 run_HPL_Single_19760"  "./run_single_GPU.sh 19760"
+./run_workload_monitor_single.sh "./amd_mi300x_power_clock_temp_single.sh 0 1 run_HPL_Single_9880"   "./amd_mi300x_hbm3_single.sh 0 1 run_HPL_Single_9880"   "./run_single_GPU.sh 9880"

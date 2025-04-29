@@ -36,7 +36,6 @@ tags
 .vscode
 
 # build-in-source directory
-build
 
 # doc directory
 docBin

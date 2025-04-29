@@ -1,0 +1,5 @@
+./run_workload_monitor_octal.sh "./amd_mi300x_power_clock_temp_octal.sh 1 run_HPL_Octal_445440" "./amd_mi300x_hbm3_octal.sh 1 run_HPL_Octal_445440" "./amd_mi300x_xgmi_octal.sh 1 run_HPL_Octal_445440"   "./run_octal_GPU.sh 445440"
+./run_workload_monitor_octal.sh "./amd_mi300x_power_clock_temp_octal.sh 1 run_HPL_Octal_222720" "./amd_mi300x_hbm3_octal.sh 1 run_HPL_Octal_222720" "./amd_mi300x_xgmi_octal.sh 1 run_HPL_Octal_222720"   "./run_octal_GPU.sh 222720"
+./run_workload_monitor_octal.sh "./amd_mi300x_power_clock_temp_octal.sh 1 run_HPL_Octal_111360" "./amd_mi300x_hbm3_octal.sh 1 run_HPL_Octal_111360" "./amd_mi300x_xgmi_octal.sh 1 run_HPL_Octal_111360"   "./run_octal_GPU.sh 111360"
+./run_workload_monitor_octal.sh "./amd_mi300x_power_clock_temp_octal.sh 1 run_HPL_Octal_55680"  "./amd_mi300x_hbm3_octal.sh 1 run_HPL_Octal_55680"  "./amd_mi300x_xgmi_octal.sh 1 run_HPL_Octal_55680"   "./run_octal_GPU.sh 55680"
+./run_workload_monitor_octal.sh "./amd_mi300x_power_clock_temp_octal.sh 1 run_HPL_Octal_27840"  "./amd_mi300x_hbm3_octal.sh 1 run_HPL_Octal_27840"  "./amd_mi300x_xgmi_octal.sh 1 run_HPL_Octal_27840"   "./run_octal_GPU.sh 27840"
